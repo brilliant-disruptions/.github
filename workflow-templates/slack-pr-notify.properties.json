@@ -1,0 +1,6 @@
+{
+    "name": "Slack PR Notification",
+    "description": "Send a Slack message to #push-requests when a PR is opened",
+    "iconName": "slack",
+    "categories": ["Notifications"]
+}
